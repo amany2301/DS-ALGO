@@ -1,6 +1,3 @@
-//time complexity:  O(n+d)
-//auxiliary space:  O(d)
-
 #include<iostream>
 using namespace std;
 void left_roatation(int arr[],int size,int d)
